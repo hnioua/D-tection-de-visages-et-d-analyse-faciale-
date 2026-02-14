@@ -1,0 +1,6 @@
+UTKFace Dataset - Face Aligned and Labeled. Kaggle. Available at: https://www.kaggle.com/ 346
+datasets/alifshahariar/utkface-dataset-face-aligned-and-labeled. 347
+2. Face Detection Dataset. Kaggle. Available at: https://www.kaggle.com/datasets/ 348
+fareselmenshawii/face-detection-dataset. 349
+3. Open Images Dataset V4 (OIDv4) Toolkit for dataset scraping. Available at: https://github. 350
+com/thepanacealab/OIDv4_ToolKit.
